@@ -10,6 +10,6 @@ You are able to experience first hand how JavaScript hosted on a server can acce
 
 1. Clone the repo locally or download the zip on Windows 10
 2. Open an admin powershell
-3. Run this command: Add-AppxPackage -Register <Path to containing folder>\AppxManifest.xml
+3. Run this command: Add-AppxPackage -Register "Path to containing folder"\AppxManifest.xml
 
 
